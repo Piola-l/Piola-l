@@ -10,7 +10,7 @@
   " 
   />
   -->
-<p>𜴑 I code GDScript, Rust, Python and Scratch</p>
+<p>▷ I code GDScript, Rust, Python and Scratch</p>
 </div>
 
 <!-- &cache_seconds=1800 is for updating stats every 30 minutes -->
